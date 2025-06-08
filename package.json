@@ -1,0 +1,12 @@
+{
+  "name": "news-website",
+  "version": "1.0.0",
+  "description": "News Website with NewsData.io API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+} 
